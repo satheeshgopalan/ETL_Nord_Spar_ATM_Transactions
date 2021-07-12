@@ -9,13 +9,13 @@ Apart from this, other insights also have to be drawn from the data.
 
  
 Analysing the data to find :
-Top 10 ATMs where most transactions are in the ’inactive’ state
-Number of ATM failures corresponding to the different weather conditions recorded at the time of the transactions
-Top 10 ATMs with the most number of transactions throughout the year
-Number of overall ATM transactions going inactive per month for each month
-Top 10 ATMs with the highest total amount withdrawn throughout the year
-Number of failed ATM transactions across various card types
-Top 10 records with the number of transactions ordered by the ATM_number, ATM_manufacturer, location, weekend_flag and then total_transaction_count, on weekdays and on weekends throughout the year
+1) Top 10 ATMs where most transactions are in the ’inactive’ state
+2) Number of ATM failures corresponding to the different weather conditions recorded at the time of the transactions
+3) Top 10 ATMs with the most number of transactions throughout the year
+4) Number of overall ATM transactions going inactive per month for each month
+5) Top 10 ATMs with the highest total amount withdrawn throughout the year
+6) Number of failed ATM transactions across various card types
+7) Top 10 records with the number of transactions ordered by the ATM_number, ATM_manufacturer, location, weekend_flag and then total_transaction_count, on weekdays and on weekends throughout the year
  
 
 We have data from more than 100 ATMs across Denmark. Data is captured for every transaction including, card type, location, date, time, ATM type, etc.
